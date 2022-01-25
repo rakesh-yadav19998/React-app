@@ -1,0 +1,1 @@
+export { FakeData } from './fakeData'
